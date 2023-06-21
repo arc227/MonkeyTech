@@ -1,0 +1,41 @@
+body {
+    background-color: #eafaf2;
+    font-family: Arial, sans-serif;
+    color: #161515;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #2ecc71;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  h2, h3 {
+    color: #27ae60;
+  }
+  
+  h3 {
+    margin-top: 30px;
+  }
